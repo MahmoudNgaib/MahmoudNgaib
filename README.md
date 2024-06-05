@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MahmoudNgaib
 - 👀 I’m interested in Data Analysis
-- 🌱looking for greqt exchange concerning data and data science
+- 🌱looking for great exchange concerning data and data science
 - 
 
 <!---
